@@ -1,4 +1,4 @@
-<h1 align="center">TikTakToe Game </h1>
+<h1 >TikTakToe Game⭕✖️</h1>
 <p align="left">
   This is a study project using Mobile concepts to create a tic-tac-toe game.
 </p>
